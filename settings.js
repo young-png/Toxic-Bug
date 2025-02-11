@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254735342808"
-global.ownername = "xhclinton"
-global.ytname = "xh_clinton"
+global.ownernomer = "2348168000939"
+global.ownername = "Ɲaruto"
+global.ytname = "."
 global.socialm = "GitHub: xhclintohn"
-global.location = "Africa, Kenya, Nairobi"
+global.location = "Africa lagos Nigeria"
 
-global.ownernumber = '254735342808,254799283147,254114374044'  //creator number
-global.ownername = 'xhclinton' //owner name
-global.botname = '☣️Toxic-V1☣️' //name of the bot
+global.ownernumber = '2348168000939'  //creator number
+global.ownername = 'Ɲaruto' //owner name
+global.botname = 'Saidaboj Toto' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'xhclinton\n\nContact: +254735342808'
+global.author = 'Ɲaruto\n\nContact: +2348168000939'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -30,19 +30,19 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = '.'
 
 //text bug
 global.xbugtex = {
